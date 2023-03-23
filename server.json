@@ -1,0 +1,15 @@
+{
+    "2023/04/01": [
+        {"galaxy": "M30", "type": "bar", "brightness": 9},
+        {"galaxy": "M31", "type": "bar", "brightness": 11}
+    ],
+    "2023/04/03": [
+        {"galaxy": "M30", "type": "bar", "brightness": 5},
+        {"galaxy": "M16", "type": "wrong", "brightness": -3},
+        {"galaxy": "M30", "type": "bar", "brightness": 7}
+    ],
+    "2023/01/01": [
+        {"galaxy": "M29", "type": "elliptical", "brightness": 12},
+        {"galaxy": "M30", "type": "bar", "brightness": 8}
+    ]
+}
